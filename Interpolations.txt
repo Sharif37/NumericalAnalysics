@@ -1,0 +1,5 @@
+Interpolation is a method of estimating the value of a function at a point within the range of a set of known data points. In other words, it is a method of finding a function that fits a set of data points as closely as possible. There are several different methods of interpolation, including:
+
+Polynomial Interpolation: This method involves finding a polynomial function that passes through a set of data points. The polynomial can be of any degree, but a common choice is a polynomial of the same degree as the number of data points minus one. The most famous and widely used method of polynomial interpolation is the Lagrange interpolation.
+
+Spline Interpolation: This method involves finding a smooth curve that passes through a set of data points. The curve is defined by a set of polynomial segments that are joined together at the data points. The most famous and widely used method of spline interpolation is the cubic spline interpolation.

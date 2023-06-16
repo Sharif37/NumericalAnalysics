@@ -1,0 +1,13 @@
+A polynomial has a degree number.
+
+For example a cubic has degree 3
+
+A quadratic has degree 2 and a quartic and degree 4
+
+The highest power of x is the degree number of a polynomial.
+
+When we differentiate, the highest power of x decreases by 1
+
+When we find turning points, we set this differential equation to 0
+
+By the fundamental theorem of algebra, there must at least (n-1) solutions to this differential equation and ’n’ solutions to the original question
